@@ -11,8 +11,11 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img width="1256" alt="Screen Shot 2024-05-13 at 6 59 08 PM" src="https://github.com/Harshitha2606/calculator/assets/151476392/faa3b504-05b1-4b10-b942-a8f782e5d003">
+
+<img width="1489" alt="Screen Shot 2024-05-13 at 6 59 24 PM" src="https://github.com/Harshitha2606/calculator/assets/151476392/e6788390-9909-435f-b0ed-a0ceee7615dd">
+
+<img width="1502" alt="Screen Shot 2024-05-13 at 7 00 00 PM" src="https://github.com/Harshitha2606/calculator/assets/151476392/781bc354-9a9a-45c6-925d-e6b4532636a4">
 
 ### `npm test`
 
